@@ -5,12 +5,9 @@
     "keywords": ["MOHC","cms","php","twig","markdown"],
     "homepage": "http://mohc.net",
     "license": "MIT",
-    "repositories": [
-      {  
-        "type": "vcs",
-        "url": "git@github.com:mohc/bootstrap4-brochure-site-pico-theme.git"
-      }
-    ],
+    "require": {
+        "php": ">=5.3.6"
+    },
     "authors": [
         {
             "name": "Mark Olive",
